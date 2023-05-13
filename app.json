@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.stephaniearismendi17.snack9d3133aa66d64ac1beb40d84bc1090a1"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8da85603-120b-409a-90a2-772e959a2f18"
+      }
     }
   }
 }
